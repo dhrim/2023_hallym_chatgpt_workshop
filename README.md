@@ -30,21 +30,26 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 - 13:00 – 13:50 : OpenAI API 실습 #1
     - API 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
 - 14:00 – 14:50 : OpenAI API 실습 #2
+    - GPT 추가 학습 : [practice/how_to_fine_tuning.ipynb](practice/how_to_fine_tuning.ipynb)
+- 15:00 - 15:50 : 작업1. 지식인 의학 QnA의 전공과 예측 - 지식인 데이터 크로울링 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
+- 16:00 – 17:00 : 작업1. 지식인 의학 QnA의 전공과 예측 - GPT 추가 학습 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
+
+
     - 임베딩 방법 : [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
-    - 학습 방법 : [practice/how_to_fine_tunning.ipynb](practice/how_to_fine_tunning.ipynb)
-- 15:00 - 15:50 : 데이터 크로울링 #1 [TODO]()
-- 16:00 – 17:00 : 데이터 크로울링 #2 [TODO]()
+
 
 ## 9월 3일 (일)
-작업 1. 데이터 크로울링과 학습<br>
-작업 2. 개인 문서에 대한 QnA 엔진 구축
+작업 1. 지식인 의학 QnA의 전공과 예측<br>
+작업 2. 논문을 기반한 QnA 엔진 구현
 
-- 09:00 – 09:50 : 작업1 - 수집된 데이터에 대한 전처리
-- 10:00 – 10:50 : 작업1 - OpenAI API를 사용한 학습
-- 11:00 - 11:50 : 작업1 - 질문 호출과 응답 처리
-- 13:00 – 13:50 : 작업2 - 수집된 데이터에 대한 전처리
-- 14:00 – 14:50 : 작업2 - OpenAI API로 데이터의 임베딩
-- 15:00 - 15:50 : 작업2 - 질문의 임베딩과 답변 처리
+- 09:00 – 09:50 : 임베딩 방법 [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
+- 10:00 – 10:50 : 
+    - 임베딩을 사용한 분류 [practice/classification_using_embedding.ipynb]()
+    - 임베딩을 사용한 추천 [practice/recommendation_using_embedding.ipynb]()
+- 11:00 - 11:50 : 작업2. 의학 논문에 기반한 QnA 엔진 [practice/task2_qna_engine.ipynb]()
+- 13:00 – 13:50 : 작업2. 의학 논문에 기반한 QnA 엔진 [practice/task2_qna_engine.ipynb]()
+- 14:00 – 14:50 : 작업2. 의학 논문에 기반한 QnA 엔진 [practice/task2_qna_engine.ipynb]()
+- 15:00 - 15:50 : ?
 - 16:00 – 17:00 : 전체 과정에 대한 질문과 대답, 회고
 
 <br>
