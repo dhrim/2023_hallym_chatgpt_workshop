@@ -26,11 +26,12 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 - 09:00 – 09:10 등록
 - 09:15 – 09:30 인사말과 참석자, 강사 소개
 - 09:30 - 10:50 : ChatGPT 소개, OpenAI API 소개
-- 11:00 - 11:55
-    - 실습을 위한 계정 생성 [OpenAI_계정만들기_키만들기_결제정보_입력.pdf](OpenAI_계정만들기_키만들기_결제정보_입력.pdf)
-    - 환경 구축 <<TODO>>
-- 13:00 – 13:50 : OpenAI API 실습 #1 [TODO]()
-- 14:00 – 14:50 : OpenAI API 실습 #2 [TODO]()
+- 11:00 - 11:55 : 실습을 위한 환경 준비 [실습위한_환경_준비.pdf](실습위한_환경_준비.pdf)
+- 13:00 – 13:50 : OpenAI API 실습 #1
+    - API 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
+- 14:00 – 14:50 : OpenAI API 실습 #2
+    - 임베딩 방법 : [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
+    - 학습 방법 : [practice/how_to_fine_tunning.ipynb](practice/how_to_fine_tunning.ipynb)
 - 15:00 - 15:50 : 데이터 크로울링 #1 [TODO]()
 - 16:00 – 17:00 : 데이터 크로울링 #2 [TODO]()
 
