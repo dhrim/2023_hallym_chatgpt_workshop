@@ -35,8 +35,6 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 - 16:00 – 17:00 : 작업1. 지식인 의학 QnA의 전공과 예측 - GPT 추가 학습 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
 
 
-    - 임베딩 방법 : [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
-
 
 ## 9월 3일 (일)
 작업 1. 지식인 의학 QnA의 전공과 예측<br>
