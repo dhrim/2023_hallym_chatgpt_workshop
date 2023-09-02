@@ -28,26 +28,29 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 - 09:30 - 10:50 : ChatGPT 소개, OpenAI API 소개
 - 11:00 - 11:55 : 실습을 위한 환경 준비 [실습위한_환경_준비.pdf](실습위한_환경_준비.pdf)
 - 13:00 – 13:50 : OpenAI API 실습 #1
-    - API 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
+    - API 단순 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
 - 14:00 – 14:50 : OpenAI API 실습 #2
-    - GPT 추가 학습 : [practice/how_to_fine_tuning.ipynb](practice/how_to_fine_tuning.ipynb)
-- 15:00 - 15:50 : 작업1. 지식인 의학 QnA의 전공과 예측 - 지식인 데이터 크로울링 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
-- 16:00 – 17:00 : 작업1. 지식인 의학 QnA의 전공과 예측 - GPT 추가 학습 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
-
-
+    - API 역활 설정과 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
+    - https://platform.openai.com/examples
+- 15:00 ~ 15:50 : OpenAI API 실습 #3
+    - 챗봇 : [practice/tiny_chatbot.ipynb](practice/tiny_chatbot.ipynb)
 
 ## 9월 3일 (일)
-작업 1. 지식인 의학 QnA의 전공과 예측<br>
-작업 2. 논문을 기반한 QnA 엔진 구현
 
-- 09:00 – 09:50 : 임베딩 방법 [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
-- 10:00 – 10:50 : 
+- 09:00 – 09:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #1
+    - GPT 추가 학습 : [practice/how_to_fine_tuning.ipynb](practice/how_to_fine_tuning.ipynb)
+- 10:00 – 10:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #2
+    - 지식인 데이터 크로울링 : [practice/task1_medical_speciality.ipynb]
+- 11:00 - 11:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #3
+    - GPT 추가 학습 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
+- 13:00 – 13:50 : 작업2. 의학 논문에 기반한 QnA 엔진 #1
+    - 임베딩 방법 [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
     - 임베딩을 사용한 분류 [practice/classification_using_embedding.ipynb]()
     - 임베딩을 사용한 추천 [practice/recommendation_using_embedding.ipynb]()
-- 11:00 - 11:50 : 작업2. 의학 논문에 기반한 QnA 엔진 [practice/task2_qna_engine.ipynb]()
-- 13:00 – 13:50 : 작업2. 의학 논문에 기반한 QnA 엔진 [practice/task2_qna_engine.ipynb]()
-- 14:00 – 14:50 : 작업2. 의학 논문에 기반한 QnA 엔진 [practice/task2_qna_engine.ipynb]()
-- 15:00 - 15:50 : ?
+- 14:00 – 14:50 : 작업2. 의학 논문에 기반한 QnA 엔진 #2
+    - 논문 임베딩 : [practice/task2_qna_engine.ipynb]()
+- 15:00 - 15:50 : 작업2. 의학 논문에 기반한 QnA 엔진 #3
+    - QnA 구현 : [practice/task2_qna_engine.ipynb]()
 - 16:00 – 17:00 : 전체 과정에 대한 질문과 대답, 회고
 
 <br>
