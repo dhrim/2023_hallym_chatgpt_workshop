@@ -48,9 +48,9 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
     - 임베딩을 사용한 분류 [practice/classification_using_embedding.ipynb]()
     - 임베딩을 사용한 추천 [practice/recommendation_using_embedding.ipynb]()
 - 14:00 – 14:50 : 작업2. 의학 논문에 기반한 QnA 엔진 #2
-    - 논문 임베딩 : [practice/task2_qna_engine.ipynb]()
+    - 논문 임베딩 : [practice/task2_customer_qna_engine.ipynb]()
 - 15:00 - 15:50 : 작업2. 의학 논문에 기반한 QnA 엔진 #3
-    - QnA 구현 : [practice/task2_qna_engine.ipynb]()
+    - QnA 구현 : [practice/task2_customer_qna_engine.ipynb]()
 - 16:00 – 17:00 : 전체 과정에 대한 질문과 대답, 회고
 
 <br>
