@@ -40,7 +40,7 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 - 09:00 – 09:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #1
     - GPT 추가 학습 : [practice/how_to_fine_tuning.ipynb](practice/how_to_fine_tuning.ipynb)
 - 10:00 – 10:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #2
-    - 지식인 데이터 크로울링 : [practice/task1_medical_speciality.ipynb]
+    - 지식인 데이터 크로울링 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
 - 11:00 - 11:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #3
     - GPT 추가 학습 : [practice/task1_medical_speciality.ipynb](practice/task1_medical_speciality.ipynb)
 - 13:00 – 13:50 : 작업2. 의학 논문에 기반한 QnA 엔진 #1
