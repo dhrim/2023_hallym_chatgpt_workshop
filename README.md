@@ -34,6 +34,9 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
     - https://platform.openai.com/examples
 - 15:00 ~ 15:50 : OpenAI API 실습 #3
     - 챗봇 : [practice/tiny_chatbot.ipynb](practice/tiny_chatbot.ipynb)
+- 16:00 ~ 16:50
+    - 챗봇 : [practice/tiny_chatbot.ipynb](practice/tiny_chatbot.ipynb)
+
 
 ## 9월 3일 (일)
 
