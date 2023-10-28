@@ -22,7 +22,7 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 
 # 일정
 
-## 9월 2일 (토)
+## 1일차
 - 09:00 – 09:10 등록
 - 09:15 – 09:30 인사말과 참석자, 강사 소개
 - 09:30 - 10:50 : ChatGPT 소개, OpenAI API 소개
@@ -38,7 +38,7 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
     - 챗봇 : [practice/tiny_chatbot.ipynb](practice/tiny_chatbot.ipynb)
 
 
-## 9월 3일 (일)
+## 2일차
 
 - 09:00 – 09:50 : 작업1. 지식인 의학 QnA의 전공과 예측 #1
     - GPT 추가 학습 : [practice/how_to_fine_tuning.ipynb](practice/how_to_fine_tuning.ipynb)
