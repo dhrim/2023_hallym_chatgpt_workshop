@@ -23,9 +23,7 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 # 일정
 
 ## 1일차
-- 09:00 – 09:10 등록
-- 09:15 – 09:30 인사말과 참석자, 강사 소개
-- 09:30 - 10:50 : ChatGPT 소개, OpenAI API 소개
+- 09:00 - 10:50 : ChatGPT 소개, OpenAI API 소개 [from_DNN_to_GPT.pptx](from_DNN_to_GPT.pptx)
 - 11:00 - 11:55 : 실습을 위한 환경 준비 [실습위한_환경_준비.pdf](실습위한_환경_준비.pdf)
 - 13:00 – 13:50 : OpenAI API 실습 #1
     - API 단순 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
